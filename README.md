@@ -1,15 +1,7 @@
-# FISI2029-201920
-Laboratorio Métodos Computacionales - Segundo Semestre 2019
-[![Binder](http://mybinder.org/badge_logo.svg)](http://beta.mybinder.org/v2/gh/ComputoCienciasUniandes/FISI2029-201920/master)
+# Ejercicio 14 métodos computacionales.
+###preguntas
+1. Con lambda=1, se obtiene una ecuación que se comporta como un movimiento armónico especificamente como un oscilador armónico.
 
-Material del curso de Laboratorio de Métodos Computacionales de Uniandes
+2. se espera que se obtengan soluciones de seno y coseno
 
-Universidad de los Andes  
-Vigilada Mineducacion Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.   
-Reconocimiento personeria juridica: Resolucion 28 del 23 de febrero de 1949 Minjusticia.   
-Carrera 1 18A-10, Bloque Ip. Bogota - Colombia. A.A. 4976-12340.   
-Telephone +571 3324500.  
-Fax +571 3324516 
-Universidad de los Andes  
-Facultad de Ciencias 
-Departamento de Física 
+4. En función del tiempo los valores de y(0) varian en saltos de aproximadamente 0.1. 
