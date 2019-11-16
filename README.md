@@ -1,5 +1,5 @@
 # Ejercicio 14 métodos computacionales.
-###preguntas
+## preguntas
 1. Con lambda=1, se obtiene una ecuación que se comporta como un movimiento armónico especificamente como un oscilador armónico.
 
 2. se espera que se obtengan soluciones de seno y coseno
