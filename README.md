@@ -9,3 +9,4 @@
 5. en ambas implementaciones del metodo rk4 (por vector y por referencia) se observa que los valores de posición y velocidad no cambian, y al graficar la posición y(0) vs t se obtiene una grafica con un comportamiento de movimiento armónico en ambos casos.
 
 6. al graficar posición vs velocidad para los datos de la funcion euler yo esperaria que la velocidad aumente a medida que y aumenta y viceversa. lo que se observa en la grafica (yvsvel) son varios circulos.
+
