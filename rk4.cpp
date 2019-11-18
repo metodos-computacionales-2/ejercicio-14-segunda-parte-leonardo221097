@@ -71,10 +71,10 @@ void rk4_vector(double t, double h, double y[]) // metodo de runge kutta 4 orden
     ytmp[ii] = y[ii] + k1[ii]/2;
   }
   // k2
-  for (ii = 0; ii < N; ++ii) {
+  for (ii = 0; ii < N; ++ii)  {
     k2[ii] = h*f(t + h/2, ytmp, ii);
   }
-  for (ii = 0; ii < N; ++ii) {
+  for (ii = 0; ii < N; ++ii)  {
     ytmp[ii] = y[ii] + k2[ii]/2;
   }
   // k3
