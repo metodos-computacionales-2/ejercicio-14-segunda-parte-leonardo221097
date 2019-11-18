@@ -14,5 +14,5 @@
 
 7. al agregar una fuerza de fricción, con el paso del tiempo la posición disminuye hasta llegar a 0, y al graficar posición vs velocidad se observa una espira. 
 
-8. Al cambiar $\lambda$ por valores diferentes de 1, las graficas de posicion vs tiempo y posicion vs velocidad se vuelven lineales.
+8. Al cambiar \lambda por valores diferentes de 1, las graficas de posicion vs tiempo y posicion vs velocidad se vuelven lineales.
 
